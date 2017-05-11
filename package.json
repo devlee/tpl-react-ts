@@ -1,0 +1,22 @@
+{
+  "name": "tpl-react-ts",
+  "version": "1.0.0",
+  "description": "generator template : react-ts",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlee/tpl-react-ts.git"
+  },
+  "author": "devlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devlee/tpl-react-ts/issues"
+  },
+  "homepage": "https://github.com/devlee/tpl-react-ts#readme"
+}
