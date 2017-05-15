@@ -32,7 +32,7 @@ server
 
 > nodemon
 
-compiler
+compiler
 
 > typescript 
 
