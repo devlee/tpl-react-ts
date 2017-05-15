@@ -8,7 +8,7 @@
 
 ### devDependencies
 
-> yarn add nodemon typescript tslint tslint-react @types/core-decorators @types/extract-text-webpack-plugin @types/koa @types/koa-favicon @types/koa-router @types/node @types/react @types/react-dom @types/react-hot-loader @types/react-redux @types/react-router @types/react-router-dom @types/react-router-redux @types/webpack @types/webpack-dev-middleware @types/webpack-hot-middleware webpack webpack-dev-middleware webpack-hot-middleware extract-text-webpack-plugin source-map-loader awesome-typescript-loader react-hot-loader@next style-loader css-loader postcss-loader postcss-cssnext postcss-functions postcss-import postcss-nested --dev
+> yarn add nodemon typescript tslint tslint-react @types/core-decorators @types/extract-text-webpack-plugin @types/koa @types/koa-favicon @types/koa-router @types/node @types/react @types/react-dom @types/react-hot-loader @types/react-redux @types/react-router @types/react-router-dom @types/react-router-redux @types/webpack @types/webpack-dev-middleware @types/webpack-hot-middleware webpack webpack-dev-middleware webpack-hot-middleware extract-text-webpack-plugin source-map-loader awesome-typescript-loader react-hot-loader@next json-loader style-loader css-loader postcss-loader postcss-cssnext postcss-functions postcss-import postcss-nested --dev
 
 ## Explain
 
@@ -77,6 +77,7 @@ loader for webpack
 > source-map-loader \
   awesome-typescript-loader \
   react-hot-loader \
+  json-loader \
   style-loader \
   css-loader \
   postcss-loader
