@@ -4,11 +4,11 @@
 
 ### dependencies
 
-> yarn add react react-dom react-router react-router-dom redux react-redux react-router-redux rxjs redux-observable reselect koa koa-favicon koa-router core-decorators bundle-loader
+> yarn add react react-dom react-router react-router-dom redux react-redux react-router-redux@next rxjs redux-observable reselect koa koa-favicon koa-router core-decorators bundle-loader
 
 ### devDependencies
 
-> yarn add nodemon typescript tslint tslint-react @types/core-decorators @types/extract-text-webpack-plugin @types/koa @types/koa-favicon @types/koa-router @types/node @types/react @types/react-dom @types/react-hot-loader @types/react-redux @types/react-router @types/react-router-dom @types/react-router-redux @types/reselect @types/webpack @types/webpack-dev-middleware @types/webpack-hot-middleware webpack webpack-dev-middleware webpack-hot-middleware extract-text-webpack-plugin source-map-loader awesome-typescript-loader react-hot-loader style-loader css-loader postcss-loader postcss-cssnext postcss-functions postcss-import postcss-nested --dev
+> yarn add nodemon typescript tslint tslint-react @types/core-decorators @types/extract-text-webpack-plugin @types/koa @types/koa-favicon @types/koa-router @types/node @types/react @types/react-dom @types/react-hot-loader @types/react-redux @types/react-router @types/react-router-dom @types/react-router-redux @types/webpack @types/webpack-dev-middleware @types/webpack-hot-middleware webpack webpack-dev-middleware webpack-hot-middleware extract-text-webpack-plugin source-map-loader awesome-typescript-loader react-hot-loader@next style-loader css-loader postcss-loader postcss-cssnext postcss-functions postcss-import postcss-nested --dev
 
 ## Explain
 
